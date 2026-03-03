@@ -4,7 +4,7 @@ A production-grade, responsive **B2B SaaS Security Platform** built with React +
 
 ## 🚀 Live Demo
 
-[**Visit the deployed app →**](#) *(Update with your Vercel/Netlify URL after deployment)*
+[**Visit the deployed app →**](#https://fenrir-assignment-nu.vercel.app/) *(Update with your Vercel/Netlify URL after deployment)*
 
 ## ✨ Features
 
